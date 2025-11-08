@@ -21,12 +21,8 @@
 |------|------------|
 | `main.py` | Основной скрипт пайплайна |
 | `requirements.txt` | Зависимости Python |
-| `train_data.csv` | Корпус знаний (источник чанков) |
-| `questions.csv` | Входные вопросы |
-| `submission.csv` | Финальные ответы для отправки |
 | `run_summary.json` | Итоговая статистика: токены, стоимость, время |
-| `diagnostics_autotest.json` | Результаты self-judge автотеста |
-| `logs/` | Текстовые и JSON-логи выполнения |
+| `test_pipeline.py` | отладочные тесты |
 
 ---
 
